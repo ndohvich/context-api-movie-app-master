@@ -1,0 +1,12 @@
+.movie__form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.movie__input {
+  height: 25px;
+  padding-top: 5;
+  margin-top: 15;
+}
